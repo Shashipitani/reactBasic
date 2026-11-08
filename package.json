@@ -1,0 +1,32 @@
+{
+  "name": "reactcourse",
+  "version": "1.0.0",
+  "source":"index.html",
+  "description": "ignition of react app",
+  "homepage": "https://github.com/Shashipitani/reactBasic#readme",
+  "bugs": {
+    "url": "https://github.com/Shashipitani/reactBasic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashipitani/reactBasic.git"
+  },
+  "license": "ISC",
+  "author": "Shashi Uma Sri",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel",
+    "build":"parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
