@@ -1,0 +1,2 @@
+export const LOGO = "https://www.designmantic.com/logo-images/166736.png?company=Company%20Name&keyword=gourmet%20food&slogan=&verify=1";
+export const CDN_IMG ="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";

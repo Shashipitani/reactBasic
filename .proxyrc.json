@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "https://localhost:1234/",
+    "pathRewrite": {
+      "^/api": "https://namastedev.com/api/v1/listRestaurants"
+    }
+  }
+}
